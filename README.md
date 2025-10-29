@@ -1,8 +1,9 @@
-# 🌿 Predicting Medicinal Properties of Plant Extract
+# 🌿 Predicting Medicinal Properties of Plant Extract with Advanced Neural Network Architectures
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-green.svg)](https://scikit-learn.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19Tm7unNILQ9UBt7BiPjTNa9gTVu9Hr8H?usp=sharing)
 
 > A comprehensive machine learning project leveraging advanced neural architectures to predict the medicinal properties of copper nanoparticles synthesized from plant extracts.
 
@@ -113,7 +114,21 @@ CUDA-compatible GPU (Optional, for faster training)
 
 ### Quick Start
 
-Run the main Jupyter notebook:
+**Option 1: Google Colab (Easiest - No Installation Required)**
+
+Click the badge below to open the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19Tm7unNILQ9UBt7BiPjTNa9gTVu9Hr8H?usp=sharing)
+
+The Colab notebook includes:
+- Pre-configured environment with all dependencies
+- Free GPU access for faster training
+- Interactive execution and visualization
+- No local setup required
+
+**Option 2: Local Jupyter Notebook**
+
+Run the main Jupyter notebook locally:
 
 ```bash
 # Start Jupyter notebook
@@ -129,17 +144,8 @@ The notebook will:
 - Generate comprehensive performance metrics and visualizations
 - Display model comparison results
 
-### Alternative Usage
+**Option 3: JupyterLab**
 
-You can also run the notebook in different environments:
-
-**Google Colab:**
-```bash
-# Upload the .ipynb file and dataset to Google Colab
-# Run all cells sequentially
-```
-
-**JupyterLab:**
 ```bash
 jupyter lab
 # Navigate to antifungal_antibac_antioxi_antiinflam.ipynb
@@ -241,6 +247,8 @@ pip install -r requirements.txt
 **Manas Kamal Das** - manaskd2019@gmail.com
 
 **Project Link**: [https://github.com/Manas120104/Plant-Extract](https://github.com/Manas120104/Plant-Extract)
+
+**Google Colab**: [Open in Colab](https://colab.research.google.com/drive/19Tm7unNILQ9UBt7BiPjTNa9gTVu9Hr8H?usp=sharing)
 
 **LinkedIn**: [Manas Kamal Das](https://www.linkedin.com/in/manaskamaldas/)
 
